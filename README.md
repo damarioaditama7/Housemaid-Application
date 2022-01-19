@@ -6,3 +6,6 @@ You can run the spring application then use Swagger 3 (localhost:[port]/swagger-
 Make sure you have created a database on your local database.
 
 Don't forget to change database setting in application.properties.
+
+
+The project is on the master branch.
