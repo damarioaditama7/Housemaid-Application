@@ -1,5 +1,5 @@
 # Housemaid-Application
-SPRING MINI PROJECT: Application for booking housemaid.
+SPRING MINI PROJECT: Application for booking housemaid (Using Intellij IDE).
 
 You can run the spring application then use Swagger 3 (localhost:[port]/swagger-ui).
 
